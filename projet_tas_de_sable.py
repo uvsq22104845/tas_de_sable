@@ -6,3 +6,4 @@
 # Bertille LANOIRE
 # https://github.com/uvsq-info/l1-python
 #########################################
+print("test")
